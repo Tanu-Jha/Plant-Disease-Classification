@@ -1,6 +1,6 @@
 streamlit==1.42.0
-numpy
-tensorflow==2.18.0
-opencv-python
-Pillow
-openai
+numpy==1.24.3
+tensorflow-cpu==2.15.0  # Using CPU version since Streamlit Cloud doesn't support GPU
+opencv-python-headless  # Headless version is better for cloud deployment
+Pillow==10.2.0
+openai==1.12.0
