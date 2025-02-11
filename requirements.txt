@@ -4,3 +4,4 @@ tensorflow
 opencv-python
 Pillow
 openai
+libgl1-mesa-glx
