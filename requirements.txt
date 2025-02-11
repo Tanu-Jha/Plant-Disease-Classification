@@ -4,4 +4,3 @@ tensorflow==2.18.0
 opencv-python
 Pillow
 openai
-ml-dtypes==0.3.0
